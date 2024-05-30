@@ -9,5 +9,22 @@ package modelo;
  * @author Lenovo.User
  */
 public class Usuario {
-    
+private String nombre;
+private String apellido;
+private char inicial;
+private String direccion;
+private String correoElectronico;
+//UN METODO PUEDE SER VACIO O CON ARGUMENTO
+
+    public Usuario() {
+    }
+
+    public Usuario(String nombre, String apellido, char inicial, String direccion, String correoElectronico) {
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.inicial = inicial;
+        this.direccion = direccion;
+        this.correoElectronico = correoElectronico;
+    }
+
 }

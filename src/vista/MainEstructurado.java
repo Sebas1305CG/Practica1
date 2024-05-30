@@ -28,7 +28,7 @@ String correoElectronico="renny.caicedo284@ist17dejulio.edu.ec";
          System.out.println("2)"+listaDatos[1]);
           System.out.println("3)"+listaDatos[2]);
            System.out.println("4)"+listaDatos[3]);
-            System.out.println("1)"+listaDatos[4]);
+            System.out.println("5)"+listaDatos[4]);
 System.out.println("DATOS PERSONALES");
 String nombres1="Sebas";
 String apellido1="Caicedo";
